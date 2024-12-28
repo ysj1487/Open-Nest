@@ -1,0 +1,23 @@
+/real-estate-pf
+    /public
+    /src
+        /components
+            Auth.js
+            Dashboard.js
+            Register.js
+            ViewProjects.js
+            CheckProgress.js
+        /services
+            api.js
+        App.js
+        index.js
+    /backend
+        /models
+            User.js
+            Project.js
+        /routes
+            auth.js
+            projects.js
+        server.js
+    package.json
+    README.md

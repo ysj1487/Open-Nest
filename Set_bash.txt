@@ -1,0 +1,10 @@
+# 프론트엔드 설정
+npx create-react-app real-estate-pf
+cd real-estate-pf
+npm install axios react-router-dom
+
+# 백엔드 설정
+mkdir backend
+cd backend
+npm init -y
+npm install express mongoose cors body-parser bcryptjs jsonwebtoken

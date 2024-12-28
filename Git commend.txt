@@ -1,0 +1,9 @@
+# Git 초기화
+git init
+git add .
+git commit -m "Initial commit"
+
+# GitHub 리포지토리 연결
+git remote add origin https://github.com/USERNAME/real-estate-pf.git
+git branch -M main
+git push -u origin main
